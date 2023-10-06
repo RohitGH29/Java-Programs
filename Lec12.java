@@ -17,7 +17,7 @@ public class  Lec12{
             System.out.println(fullName.charAt(i));
         }
 
-        //compare 
+        //compare  the strings
         String name1="Rohit";
         String name2="Rohit";
 
