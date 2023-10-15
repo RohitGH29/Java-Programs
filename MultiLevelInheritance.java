@@ -11,7 +11,7 @@ public class MultiLevelInheritance {
 
 
 //Base class
-class Animal{
+class Animals{
 
     void eat(){
         System.out.println("Eat");
@@ -25,7 +25,7 @@ class Animal{
 
 
 //Derived class
-class Mammals extends Animal{
+class Mammals extends Animals{
     int legs;
 }
 
